@@ -1,0 +1,6 @@
+{
+    "apikey"            : "db4d74f0-6953-11ea-b605-f763cea6cc5b",
+    "apiUrl"            : "https://api.harvardartmuseums.org",
+    "mongoConnectUrl"   : "mongodb://localhost/artmuseum-app",
+    "sessionSecret"     : "KjFdbaPLmdKaJAsZMwdAM20FFgGd9szaHHtTTRs"
+}
